@@ -1,4 +1,8 @@
 <?php
+
+# Script Mediafire
+# https://youtu.be/v9ReNdXvS1A
+
 error_reporting(0);
 const 
 title = "viefaucet",
